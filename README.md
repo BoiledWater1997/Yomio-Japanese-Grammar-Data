@@ -2,14 +2,18 @@
 
 This repository contains Japanese grammar data used by Yomio.
 
-The dataset is derived from the Hanabira.org Japanese Content repository:
+## Source and Attribution
+
+This dataset is derived from the Hanabira.org Japanese Content repository:
 
 - https://github.com/tristcoil/hanabira.org-japanese-content
 - https://hanabira.org
 
+The original content is provided by Hanabira.org under a Creative Commons license.
+
 ## Modifications
 
-The data has been modified for use in Yomio. Changes include:
+This dataset is an adapted version of the original Hanabira content. Modifications include:
 
 - Cleaning and normalizing the JSON structure
 - Merging duplicate grammar entries
@@ -19,12 +23,10 @@ The data has been modified for use in Yomio. Changes include:
 
 ## License
 
-Because this dataset is derived from Creative Commons-licensed Hanabira content, this modified dataset is released under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), unless the upstream Hanabira project clarifies a different compatible license.
-
-License text:
+This dataset is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Disclaimer
 
-This dataset is provided for educational purposes. It may contain mistakes, unnatural examples, or translation errors.
+This dataset is provided for educational purposes. It may contain mistakes, unnatural examples, or translation errors. Any errors introduced during modification or translation are the responsibility of this repository.
